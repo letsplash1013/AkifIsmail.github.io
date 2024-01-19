@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/AkifIsmail.github.io/static/css/main.be020428.css",
+    "main.js": "/AkifIsmail.github.io/static/js/main.c174acbb.js",
+    "static/js/787.fb771931.chunk.js": "/AkifIsmail.github.io/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp2.png": "/AkifIsmail.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.svg": "/AkifIsmail.github.io/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/AkifIsmail.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/AkifIsmail.github.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/AkifIsmail.github.io/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/AkifIsmail.github.io/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/project-img2.png": "/AkifIsmail.github.io/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/banner-bg.png": "/AkifIsmail.github.io/static/media/banner-bg.f0e1546f5336e40699e4.png",
+    "static/media/project-img3.png": "/AkifIsmail.github.io/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/banner-bg2.png": "/AkifIsmail.github.io/static/media/banner-bg2.bb51b20addc454eba603.png",
+    "static/media/footer-bg.png": "/AkifIsmail.github.io/static/media/footer-bg.bd208a06da76d48a042b.png",
+    "static/media/logo.png": "/AkifIsmail.github.io/static/media/logo.3d4701f1ec8145738934.png",
+    "static/media/logo.svg": "/AkifIsmail.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon2.svg": "/AkifIsmail.github.io/static/media/nav-icon2.8d77641a4985ab90ee47837206044188.svg",
+    "static/media/nav-icon3.svg": "/AkifIsmail.github.io/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/AkifIsmail.github.io/index.html",
+    "static/media/nav-icon1.svg": "/AkifIsmail.github.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.be020428.css.map": "/AkifIsmail.github.io/static/css/main.be020428.css.map",
+    "main.c174acbb.js.map": "/AkifIsmail.github.io/static/js/main.c174acbb.js.map",
+    "787.fb771931.chunk.js.map": "/AkifIsmail.github.io/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be020428.css",
+    "static/js/main.c174acbb.js"
+  ]
+}
